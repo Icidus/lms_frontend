@@ -1087,7 +1087,7 @@ const ZipCodesForm = props => {
                     />
                     <br />
 
-                </Col> */}
+                </Col>
                 {/* <Col>
                     <h2>List of current zipcodes ({zipCodeCount.length})</h2>
                         <Input type="textarea" rows="20" name="zipCodeList" value={props.data.zipCodeList} onChange={props.handleInputChange} />
